@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=TJ2SOBjEopo
+[初心者用] DockerでPythonの実行環境を作ってみる / Create Python Environment with Docker for Beginners
+
+githubの資料
+https://github.com/jhorikawa/Create-Docker-Container-for-Python-Environment-Handson
+
